@@ -1,4 +1,4 @@
-# REGEX Study
+# regex-study
 
 - Dot `.` digunakna untuk memilih semua jenis karakter
 
